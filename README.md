@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Linux**
 
-- 📫 How to reach me **aliuinmohammedali@gmail.com**
+- 📫 How to reach me **aliudinmohammedali@gmail.com**
 
 - ⚡ Fun fact **Both macOS and Linux are based on UNIX**
 
